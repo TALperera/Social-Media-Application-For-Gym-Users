@@ -1,0 +1,11 @@
+.workoutPlanTitle{
+    font-size: 1.8rem;
+    color: rgb(4, 4, 4);
+    font-weight: bold;
+    margin-top: 1rem;
+    text-align: center;
+}
+
+.myPlanDash{
+    text-align: auto;
+}

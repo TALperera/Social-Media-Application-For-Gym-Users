@@ -1,0 +1,114 @@
+
+.createMealBut{
+    margin-bottom: 20px;
+    padding: 10px 20px;
+    font-size: 1.2em;
+    font-weight: 450;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #ffffff;
+    background-color: #01022e;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4);
+}
+
+.createMealBut:hover{
+    background-color: #120497;
+    color: #ffffff;
+}
+
+.mealFormPopup{
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4);
+    transition: box-shadow 0.4s ease;
+    width: 360px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    margin-left: 20px;
+    text-align: left;
+
+}
+.mealNameLB{
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.mealNameInput{
+    border: 1px solid #ccc;
+    width: 210px;
+    height: 30px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+
+.mealLB2{
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.mealCatSelect{
+    border: 1px solid #ccc;
+        width: 135px;
+        height: 30px;
+        margin-left: 10px;
+        margin-bottom: 20px;
+}
+
+.mealLB3{
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.mealIngredientsInput{
+    width: 207px;
+    height: 60px;
+    border: 1px solid #ccc;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.mealInstructionsInput{
+    width: 200px;
+    height: 60px;
+    border: 1px solid #ccc;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.mealCaloriesInput{
+    border: 1px solid #ccc;
+        width: 232px;
+        height: 30px;
+        margin-left: 10px;
+        margin-bottom: 20px;
+        margin-top: 20px;
+}
+
+.mealPortionInput{
+    border: 1px solid #ccc;
+        width: 235px;
+        height: 30px;
+        margin-left: 10px;
+        margin-bottom: 20px;
+        margin-top: 20px;
+}
+
+.mealSubmitBut{
+        margin-bottom: 10px;
+        padding: 10px 20px;
+        font-size: 0.9em;
+        font-weight: 250;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        color: #ffffff;
+        background-color: #01022e;
+        border: none;
+        border-radius: 5px;
+        box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4);
+}
+
+.mealCBut{
+    width: 20px;
+    height: 20px;
+    margin-top: 20px;
+    margin-left: 200px;
+}

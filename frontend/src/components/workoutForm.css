@@ -1,0 +1,123 @@
+.workout-form-overlaySA {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.8);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow-y: auto
+}
+
+.workout-form-containerSA {
+    background-color: white;
+    padding: 40px;
+    border-radius: 8px;
+    margin-top: 13%;
+    line-height: 1.5;
+}
+
+.close-buttonSA {
+    padding: 6px 16px;
+    position: relative;
+    top: 10px;
+    margin-left: 90%;
+    border: 2px solid rgb(255, 0, 0);
+    background-color: white;
+    color: black;
+    border-radius: 4px;
+    cursor: pointer;
+    box-shadow: 2px 2px 4px rgb(243, 85, 85);
+}
+
+.close-buttonSA:hover {
+    background-color: #ffffff;
+    box-shadow: 2px 2px 4px rgb(255, 0, 0);
+}
+
+.form-titleSA {
+    margin-bottom: 5px;
+    align-items: center;
+
+
+}
+
+.form-labelSA {
+    margin-bottom: 0.5px;
+    margin-top: 0.5px;
+    display: block;
+}
+
+.form-inputSA {
+    width: 100%;
+    padding: 8px;
+    margin-top: 2px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.form-subtitleSA {
+    margin-top: 2px;
+    margin-bottom: 10px;
+}
+
+.add-exercise-buttonSA,
+.remove-exercise-buttonSA {
+    padding: 8px 16px;
+    border: 2px solid black;
+    background-color: white;
+    color: black;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 10px;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.add-exercise-buttonSA:hover,
+.remove-exercise-buttonSA:hover {
+    background-color: #837a7a;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
+}
+
+
+.submit-buttonSA {
+    border: none;
+    padding: 8px 16px;
+    background-color: rgb(127, 164, 250);
+    border-radius: 4px;
+    cursor: pointer;
+    display: block;
+    margin: 0 auto;
+    font-weight: bold;
+}
+
+.submit-buttonSA:hover {
+    background-color: #3851f3;
+}
+
+.exercise-buttons-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.add-workoutplan-buttonSA {
+    display: block;
+    margin: 0 auto;
+    padding: 10px 20px;
+    font-size: 1.2em;
+    font-weight: 450;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #ffffff;
+    background-color: #01022e;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4);
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.add-workoutplan-buttonSA:hover {
+    background-color: #0056b3;
+}

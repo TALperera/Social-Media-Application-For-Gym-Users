@@ -1,0 +1,63 @@
+
+.mealPlanText{
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+
+
+.mealPlanFiller{
+    margin-bottom: 20px;
+    width: 500px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+    text-align: center;
+    padding: 20px;
+}
+
+.meal-Photo{
+    border-radius: 10px;
+}
+
+.meelTilte{
+    font-size: 1.8rem;
+    color: rgb(4, 4, 4);
+    font-weight: bold;
+    margin-bottom: 20px;
+    text-align: center;
+    font-family: cursive;
+}
+
+.meelCat{
+    font-size: 18px;
+   
+    margin-top: 10px;
+}
+
+.meelIng{
+    font-size: 18px;
+    
+    margin-top: 10px;
+}
+
+.meelIns{
+    font-size: 18px;
+  
+    margin-top: 10px;
+}
+
+.meelCal{
+    font-size: 18px;
+   
+    margin-top: 10px;
+}
+
+.meelPo{
+    font-size: 18px;
+    
+    margin-top: 10px;
+}

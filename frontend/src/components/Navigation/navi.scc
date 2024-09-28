@@ -1,0 +1,36 @@
+.navi{
+    hight: 50px;
+    width: 100%;
+    background-colour: #3b5998;
+    display: flex;
+    align-item: center;
+    position: sticky;
+    top:0;
+}
+.NaviLeft{
+ flex:3;
+}
+
+.Navieneter{
+flex:5;
+}
+
+.NaviRight{
+flex:4;
+}
+
+.pic{
+    width: 338px;
+    hight: 32px;
+    object-fit: cover;
+    border-radius: 50%
+}
+
+.serchBarBox{
+    widow:100%;
+    height: 30px;
+    background-color: white;
+    broder-radius: flrx;
+    align-itema: ceneter;
+}
+

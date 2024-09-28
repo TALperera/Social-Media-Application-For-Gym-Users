@@ -1,0 +1,33 @@
+.headerFill{
+    width:100%;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: #ffffff;
+}
+
+.logo1{
+    width: 100px;
+    height: 45px;
+    cursor: pointer;
+    margin-left: 50px;
+}
+
+.logo2{
+    width: 280px;
+    height: 45px;
+    cursor: pointer;
+    text-align: center;
+    margin-left: 470px;
+}
+
+.logo3{
+    width: 35px;
+    height: 35px;
+    cursor: pointer;
+    margin-right: 50px;
+    margin-left: 370px;
+
+}
+
